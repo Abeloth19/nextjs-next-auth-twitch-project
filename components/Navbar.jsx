@@ -37,7 +37,10 @@ const Navbar = () => {
             />
           </a>
         </Link>
-        <p className='p-4 font-bold hover:text-[#9147ff]'>Browse</p>
+        <Link href='/' className='p-4 font-bold hover:text-[#9147ff]'>
+        Browse
+        </Link>
+       
         <div className='p-4'>
           <Menu as='div' className='relative text-left'>
             <div className='flex'>
