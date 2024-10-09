@@ -37,7 +37,7 @@ const Category = () => {
         />
         <CategoriesItem
           img='https://static-cdn.jtvnw.net/ttv-boxart/32982_IGDB-188x250.jpg'
-          title='Grand Thefy Auto V'
+          title='Grand Theft Auto V'
           viewers='95k Viewers'
           tag1='Adventure'
         />
@@ -58,21 +58,21 @@ const Category = () => {
         />
         <CategoriesItem
           img='https://static-cdn.jtvnw.net/ttv-boxart/1614555304-188x250.jpg'
-          title='Call of Duty: Mod..'
+          title='Call Of Duty: Mod..'
           viewers='7.5k Viewers'
           tag1='FPS'
           tag2='Shooter'
         />
         <CategoriesItem
           img='https://static-cdn.jtvnw.net/ttv-boxart/491487-285x380.jpg'
-          title='Dead by Daylight'
+          title='Dead By Daylight'
           viewers='33k Viewers'
           tag1='Action'
           tag2='Horror'
         />
         <CategoriesItem
           img='https://static-cdn.jtvnw.net/ttv-boxart/21779-285x380.jpg'
-          title='League of Legends'
+          title='League Of Legends'
           viewers='31k Viewers'
           tag1='Action'
         />

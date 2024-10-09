@@ -28,7 +28,7 @@ const IconBar = () => {
         </div>
         {/* Grid Item */}
         <div className='w-full h-[50px] bg-[#9147ff] flex justify-between items-center px-4 rounded'>
-          <p className='text-2xl font-bold'>Esports</p>
+          <p className='text-2xl font-bold'>E-sports</p>
           <Image src={Trophy} alt='/' />
         </div>
         {/* Grid Item */}
