@@ -232,7 +232,7 @@ const Navbar = () => {
             <Link href='/#categories'>Top Categories</Link>
           </li>
           <li onClick={() => setNav(false)} className='p-4 text-3xl font-bold'>
-            <Link href='/account'>account</Link>
+            <Link href='/account'>Account</Link>
           </li>
         </ul>
       </div>
