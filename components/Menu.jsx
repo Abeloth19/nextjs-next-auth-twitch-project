@@ -27,7 +27,7 @@ const Menu = () => {
             </div>
             <p className='flex items-center'>
               <BsDot color='red' size={40} />
-              {item.rank}K
+              {item.rank}k
             </p>
           </div>
         </div>
@@ -52,7 +52,7 @@ const Menu = () => {
             </div>
             <p className='flex items-center'>
               <BsDot color='red' size={40} />
-              {item.rank}K
+              {item.rank}k
             </p>
           </div>
         </div>
